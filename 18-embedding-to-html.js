@@ -1,3 +1,4 @@
+/*
 <!-- <!DOCTYPE html>
 <html>
 <body>
@@ -100,4 +101,4 @@ console.log(5 + 6);
 </html> -->
 
 
-
+*/
